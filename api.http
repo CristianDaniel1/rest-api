@@ -1,0 +1,29 @@
+### Pegar todas as artes
+GET http://localhost:1234/arts
+
+### Pegar uma arte por id
+GET http://localhost:1234/arts/art-2
+
+### Pegar todas as artes por uma categoria
+GET http://localhost:1234/arts?categories=anime
+
+### Criar uma arte com POST
+POST http://localhost:1234/arts
+Content-Type: application/json
+
+{
+  "sql": "SELECT * FROM users"
+  "title": "sfss",
+  "artist": "hum",
+  "date": "12/01/24",
+  "art": "https://ciclovivo.com.br/wp-content/uploads/2018/10/iStock-536613027-1024x683.jpg",
+  "categories": ["Ficção Científica", "Personagem"]
+}
+
+### Atualizar uma arte
+PATCH http://localhost:1234/arts/art-1
+Content-Type: application/json
+
+{
+  "title": "GIRL PUNK"
+}
