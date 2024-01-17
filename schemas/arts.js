@@ -1,4 +1,4 @@
-const zod = require('zod');
+import zod from 'zod';
 
 const artSchema = zod.object({
   title: zod.string({
@@ -27,15 +27,10 @@ const artSchema = zod.object({
   ),
 });
 
-function validateArt(input) {
+export function validateArt(input) {
   return artSchema.safeParse(input);
 }
 
-function validatePartialArt(input) {
+export function validatePartialArt(input) {
   return artSchema.partial().safeParse(input);
 }
-
-module.exports = {
-  validateArt,
-  validatePartialArt,
-};

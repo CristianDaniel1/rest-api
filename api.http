@@ -12,18 +12,21 @@ POST http://localhost:1234/arts
 Content-Type: application/json
 
 {
-  "sql": "SELECT * FROM users"
-  "title": "sfss",
-  "artist": "hum",
-  "date": "12/01/24",
+  "sql": "SELECT * FROM users",
+  "title": "The Test",
+  "artist": "christopher",
+  "date": "16/01/24",
   "art": "https://ciclovivo.com.br/wp-content/uploads/2018/10/iStock-536613027-1024x683.jpg",
   "categories": ["Ficção Científica", "Personagem"]
 }
 
+### Deletar uma arte
+DELETE http://localhost:1234/arts/art-1
+
 ### Atualizar uma arte
-PATCH http://localhost:1234/arts/art-1
+PATCH http://localhost:1234/arts/art-3
 Content-Type: application/json
 
 {
-  "title": "GIRL PUNK"
+  "artist": "Winnie Pooh"
 }
