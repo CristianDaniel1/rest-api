@@ -1,19 +1,19 @@
 [
   {
     "id": "art-1",
-    "title": "Steampunk Girl",
-    "artist": "Humfalk",
-    "date": "12/01/24",
-    "art": "https://cdn.leonardo.ai/users/acbbd362-cd93-45a3-b1a7-191f9dfc64ab/generations/d59c6636-ba81-4504-9e9b-450f50e7bf22/variations/alchemyrefiner_alchemymagic_3_d59c6636-ba81-4504-9e9b-450f50e7bf22_0.jpg",
-    "prompt": "steampunk girl",
-    "categories": ["Ficção Científica", "Personagem"]
+    "title": "Cyberpunk Woman",
+    "artist": "GlacierHydra",
+    "date": "23/01/24",
+    "art": "https://i.imgur.com/XjzSlqn.jpg",
+    "prompt": "Dark outline line art anime style of a silhouette of a cyberpunk-inspired woman standing in front of a landscape shot of an active war zone with distant explosions, light black and red long hair, light blue eyes, red and white tank top, (looking intently at viewer), (viewer from dynamic low ground level view with focus on eyes), (inspired by Code Geass mixed with Fate: Grand Order), (vibrant colors with dark outlines and shadows), (explosions and smoke in synthwave background), (giant planet in far distant background), (motion blur in background), (shallow depth of field with cyberpunk-inspired background with neon lights), ((masterpiece)), ((ultra detailed)), ((beautiful)), ((4k)), ((8k))",
+    "categories": ["Anime", "Ficção Científica", "Personagem"]
   },
   {
     "id": "art-2",
     "title": "Colorful Cat",
     "artist": "Yukisakura",
     "date": "05/01/24",
-    "art": "https://cdn.leonardo.ai/users/416d4e2c-861c-44bb-a109-2cc2a454f721/generations/b7f94ab8-fbfa-4601-bd23-c1defb8c757e/variations/alchemyrefiner_alchemymagic_2_b7f94ab8-fbfa-4601-bd23-c1defb8c757e_0.jpg",
+    "art": "https://i.imgur.com/tcSa5qf.jpg",
     "prompt": "high quality, beautiful and fantastically designed silhouettes of colorful cat due to gravitational waves, beautifully designed wavelengths, very weak vibrations caused by fluctuations in the gravitational field of the universe, wave nature, stretching and compression, by yukisakura, awesome full color",
     "categories": ["Animais", "Ficção Científica"]
   },
@@ -22,7 +22,7 @@
     "title": "Man Keeping his Shadows",
     "artist": "Gerardmanvussa",
     "date": "05/12/23",
-    "art": "https://cdn.leonardo.ai/users/dc21ff27-c44f-44cc-8d5b-9932ff23dad6/generations/484e72d9-a45f-4c09-b738-3e1316ddb84d/variations/alchemyrefiner_alchemymagic_3_484e72d9-a45f-4c09-b738-3e1316ddb84d_0.jpg",
+    "art": "https://i.imgur.com/oIjrm1Q.jpg",
     "prompt": "man keeping his shadows. illustration, eldtirch, black & red",
     "categories": ["Personagem"]
   },
@@ -31,7 +31,7 @@
     "title": "Crimson Magma Pirate Expedition",
     "artist": "Yukisakura",
     "date": "17/10/23",
-    "art": "https://cdn.leonardo.ai/users/08bff3ce-4c34-4ddd-85dc-c6bcb472167d/generations/a1652bfd-f9e3-4eee-83b7-b99d8728593c/variations/Default_high_quality_8K_Ultra_HD_high_detailed_Crimson_Magma_P_0_a1652bfd-f9e3-4eee-83b7-b99d8728593c_1.jpg",
+    "art": "https://i.imgur.com/dNkveVE.jpg",
     "prompt": "high quality, 8K Ultra HD, high detailed, Crimson Magma Pirate Expedition, Embark on a breathtaking 8K photorealistic wallpaper, where a majestic pirate ship sets sail above the fiery crimson magma of an underground realm, The ship glimmers under the ethereal glow of moonlight, surrounded by a halo of twinkling stars, creating a celestial ambiance in the hidden depths of the earth, Exotic flora and mysterious caverns add an otherworldly touch to the scene, The camera shot captures every intricate detail of the pirate ship's design and the mesmerizing beauty of the underground landscape, by yukisakura, high detailed",
     "categories": ["Paisagem"]
   },
@@ -40,7 +40,7 @@
     "title": "Pizza on the Wooden",
     "artist": "York",
     "date": "25/09/23",
-    "art": "https://cdn.leonardo.ai/users/9b7e579a-648c-4061-ae4f-15b3104ab797/generations/5ca81619-584c-4f75-8bd7-397c539232a9/variations/Default_a_pizza_on_the_wooden_dough_the_pizza_is_pepperoni_8k_0_5ca81619-584c-4f75-8bd7-397c539232a9_1.jpg",
+    "art": "https://i.imgur.com/x5OnfZ6.jpg",
     "prompt": "a pizza on the wooden dough the pizza is pepperoni 8k Chromatic aberration Hyper realistic",
     "categories": ["Comida"]
   },
@@ -49,7 +49,7 @@
     "title": "Atlantean Barbarian War Goddess",
     "artist": "Villainsupport",
     "date": "19/12/23",
-    "art": "https://cdn.leonardo.ai/users/79523c7e-25ed-4977-92c0-c08ab5545a14/generations/27346935-5a5d-4c74-8f5b-42ddbdc2eb43/variations/Default_A_close_up_of_an_supernaturally_beautiful_and_enchant_0_27346935-5a5d-4c74-8f5b-42ddbdc2eb43_1.jpg",
+    "art": "https://i.imgur.com/YATSK1Y.jpg",
     "prompt": "A close up of an supernaturally beautiful and enchanting Atlantean Barbarian War Goddess with a legendary magical spear and angrily shouting in fury. She is skinny dipping in shallow waves in a dark underground sea cave lit only with oceanic bioluminescence that washes over her perfect, irresistible body. Glowing magical golden minimalistic anime-style female battle armor. Her tan skin shimmers with scales. She is athletic, slender, fit, toned, lean, and very muscular with a thin waist and slim hips. She has deeply tanned skin and flowing, lustrous hair. Her large, vibrant, glowing turquoise Asian eyes lock intensely onto the viewer with a predatory, otherworldly allure. She has intricate aquatic-inspired tattoos across her body. Her face has painted designs. Swirling deep shadows.",
     "categories": ["Anime", "Personagem"]
   },
@@ -58,7 +58,7 @@
     "title": "Red Moon",
     "artist": "Ji1ultrapower",
     "date": "16/09/23",
-    "art": "https://cdn.leonardo.ai/users/0b2ce7b1-ffe1-4fce-a64d-09aa906ac8f9/generations/29bb67ec-72bc-4100-938b-f29a6dffe391/variations/alchemyrefiner_alchemymagic_1_29bb67ec-72bc-4100-938b-f29a6dffe391_0.jpg",
+    "art": "https://i.imgur.com/HS6ez5j.jpg",
     "prompt": "A mysterious, fog-shrouded landscape illuminated by a deep red blood moon.",
     "categories": ["Paisagem"]
   },
@@ -67,7 +67,7 @@
     "title": "Transcendental Decision",
     "artist": "Hansvbruch",
     "date": "08/01/24",
-    "art": "https://cdn.leonardo.ai/users/a7d87a1a-d716-47db-9001-4c100e0af0f3/generations/13ff310c-af81-4a50-9b12-0bdb65a2b66c/variations/alchemyrefiner_alchemymagic_0_13ff310c-af81-4a50-9b12-0bdb65a2b66c_0.jpg",
+    "art": "https://i.imgur.com/9Vi8bB4.jpg",
     "prompt": "(((The protagonist on the edge of the urban abyss, symbolizing the imminence of a transcendental decision))) (The emptiness faced by the character, reflecting the inner abyss and the possibility of a new beginning)) ((The protagonist's expression is one of intense contemplation, capturing the climax of his personal transformation)) ((Visual style inspired by Mob Psycho 100, combining realistic elements with intensified emotional landscapes)) ((The composition of the scene, where each element reinforces the central narrative) ((A play of lighting that highlights the protagonist, shadows that lengthen towards the abyss, symbolizing challenges and doubts)) (((Color palette that contrasts the impending darkness of the abyss with the hopeful light of the surroundings, marking the path towards self-liberation))))",
     "categories": ["Personagem", "Paisagem"]
   },
@@ -76,7 +76,7 @@
     "title": "Masterpiece",
     "artist": "Eresuli",
     "date": "30/09/23",
-    "art": "https://cdn.leonardo.ai/users/dc84d95c-094a-462c-b36d-e9f070e3bb46/generations/975df301-2205-4608-bded-098d513de6c4/variations/Default_Masterpiece_samosa_Isometric_acrylic_painting_with_gl_2_975df301-2205-4608-bded-098d513de6c4_1.jpg",
+    "art": "https://i.imgur.com/la2FpaR.jpg",
     "prompt": "Masterpiece, samosa ( Isometric, acrylic painting, with glaze): illuminated by the warm glow of the open hearth and the spinning skewer of freshly cooked meal. In India. Moonlit. Vivid colors. Lush. Modern style",
     "categories": ["Comida"]
   },
@@ -85,7 +85,7 @@
     "title": "Majestic Toucan",
     "artist": "Iwe",
     "date": "13/01/24",
-    "art": "https://cdn.leonardo.ai/users/3593193c-f4d6-4f1f-9472-1f044f2e1e2d/generations/2486bf88-a8cb-46a0-89e4-ab66e78c0b86/variations/alchemyrefiner_alchemymagic_3_2486bf88-a8cb-46a0-89e4-ab66e78c0b86_0.jpg",
+    "art": "https://i.imgur.com/RuOny6Q.jpg",
     "prompt": "Toucan bird in a majestic way",
     "categories": ["Animais"]
   },
@@ -94,7 +94,7 @@
     "title": "Leopard",
     "artist": "Yukisakura",
     "date": "15/01/24",
-    "art": "https://cdn.leonardo.ai/users/97234a32-1cda-4106-9d33-e5e32ab1fb7c/generations/ad0cda74-e072-41f5-bb31-f5af820d4048/variations/alchemyrefiner_alchemymagic_3_ad0cda74-e072-41f5-bb31-f5af820d4048_0.jpg",
+    "art": "https://i.imgur.com/YlQ9SBP.jpg",
     "prompt": "high quality, A beautifully designed leopard emerges, adorned with the vibrant hues of the electromagnetic spectrum, Its reflect the intricate patterns of electromagnetic wavelengths, showcasing a mesmerizing array of colors, From the soothing waves of radio frequencies to the visible splendor of light, and the ethereal realms of infrared and ultraviolet, the leopard embodies the entire spectrum, The interplay of these waves creates a fantastical display, as the leopard gracefully combines and blends the diverse colors of interference waves, The result is a breathtaking masterpiece, where the majestic leopard becomes a living embodiment of the electromagnetic spectrum, by yukisakura, high detailed",
     "categories": ["Animais"]
   },
@@ -103,7 +103,7 @@
     "title": "Anime Style",
     "artist": "CanvasArtAI",
     "date": "06/01/24",
-    "art": "https://cdn.leonardo.ai/users/18c6ac95-c2f7-4666-99ae-3bcf840d1056/generations/74ebb366-a71e-452c-a68b-931893a4673a/variations/alchemyrefiner_alchemymagic_0_74ebb366-a71e-452c-a68b-931893a4673a_0.jpg",
+    "art": "https://i.imgur.com/sWS7XS2.jpg",
     "prompt": "anime style, ((overload merged with demon slayer)), (((ultra detailed illustration of a half-dragon human in stylish clothes at the top of the eiffel tower enjoying the view of the city))), paris city landscape, ((particles in the atmosphere)), (stunning visual masterpiece), (unlimited), (surreal), (professional composition), (award-winning composition), creative freedom, (artistic expression), (extreme composition) ), ((surreal theme)), evocative, (complementary contrast), operational cores, high saturation. by instagram.com/canvas_art_a.i/",
     "categories": ["Anime", "Paisagem"]
   },
@@ -112,7 +112,7 @@
     "title": "The Universe",
     "artist": "Amritgiri",
     "date": "09/09/23",
-    "art": "https://cdn.leonardo.ai/users/bb90d0f5-dab2-4e6a-a580-726d216bf06d/generations/f1fd5c01-84f2-4a1d-af24-2c01863a9444/variations/Default_The_universe_star_and_other_beautiful_pictures_0_f1fd5c01-84f2-4a1d-af24-2c01863a9444_1.jpg",
+    "art": "https://i.imgur.com/6o0n9RV.jpg",
     "prompt": "The universe ,star and other beautiful pictures",
     "categories": ["Ficção Científica", "Paisagem"]
   },
@@ -121,25 +121,25 @@
     "title": "Hades Barbarian War Goddess",
     "artist": "Villainsupport",
     "date": "19/12/23",
-    "art": "https://cdn.leonardo.ai/users/5f5dcb3a-195f-4229-b50a-1240c533fe29/generations/dcb10b06-ad42-481e-880e-075129c9c946/variations/Default_A_close_up_of_an_angry_competitive_supernaturally_bea_3_dcb10b06-ad42-481e-880e-075129c9c946_1.jpg",
+    "art": "https://i.imgur.com/FrdHLTn.jpg",
     "prompt": "A close up of an angry, competitive, supernaturally beautiful and enchanting Hades Barbarian War Goddess fighting. She is skinny dipping in shallow waves in a dark underground sea cave lit only with the glow of lava that washes over her perfect, irresistible body. Glowing magical golden minimalistic anime-style female battle armor. Her tan skin shimmers with scales. She is athletic, slender, fit, toned, lean, and very muscular with a thin waist and slim hips. She has deeply tanned skin and flowing, lustrous hair. Her large, vibrant, glowing flame-colored Asian eyes lock intensely onto the viewer with a predatory, otherworldly allure. Confidently shouting in fury. She has intricate fire-inspired tattoos across her body. Her face has painted designs. Swirling deep shadows.",
     "categories": ["Anime", "Personagem"]
   },
   {
     "id": "art-15",
-    "title": "Skeletons Rising Up",
-    "artist": "Amritgiri",
-    "date": "26/12/23",
-    "art": "https://cdn.leonardo.ai/users/bb90d0f5-dab2-4e6a-a580-726d216bf06d/generations/f1fd5c01-84f2-4a1d-af24-2c01863a9444/variations/Default_The_universe_star_and_other_beautiful_pictures_0_f1fd5c01-84f2-4a1d-af24-2c01863a9444_1.jpg",
-    "prompt": "Skeletons rising up from his tombs, dvd screengrab, manga, from 1980 dark fantasy, style by Kentaro Miura",
-    "categories": ["Ficção Científica"]
+    "title": "Divine Fox",
+    "artist": "DShay",
+    "date": "22/01/24",
+    "art": "https://i.imgur.com/r7bSWaT.jpg",
+    "prompt": "An orange fox that is god, background of a glory sunset.Divine.",
+    "categories": ["Animais"]
   },
   {
     "id": "art-16",
     "title": "8-bit Cyber Cityscape",
     "artist": "BakaMizu",
     "date": "05/10/23",
-    "art": "https://cdn.leonardo.ai/users/9b75f5d1-4be5-4107-af2e-f262725a5a59/generations/ff0f8edb-f0cb-43e0-b060-ad6885825a88/variations/Default_8bit_AMOLED_beautiful_cyber_cityscape_against_black_ni_1_ff0f8edb-f0cb-43e0-b060-ad6885825a88_1.jpg",
+    "art": "https://i.imgur.com/Pubsu3W.jpg",
     "prompt": "8-bit AMOLED beautiful cyber cityscape against black night background",
     "categories": ["Paisagem", "Ficção Científica"]
   },
@@ -148,35 +148,35 @@
     "title": "The Bridge to the Orange Moonlight",
     "artist": "Nisala",
     "date": "29/12/23",
-    "art": "https://cdn.leonardo.ai/users/f3e343d8-9211-4737-9aa4-fe821b2c46cd/generations/4810a191-dff6-4da0-aeda-83922d09e614/variations/alchemyrefiner_alchemymagic_2_4810a191-dff6-4da0-aeda-83922d09e614_0.jpg",
+    "art": "https://i.imgur.com/Rv1FLqG.jpg",
     "prompt": "There is a narrow road and bridge, pinas forest in dark black night..there is dark yellow and orange moonlight.",
     "categories": ["Paisagem"]
   },
   {
     "id": "art-18",
-    "title": "The Bridge to the Orange Moonlight",
-    "artist": "MSChiffer",
-    "date": "09/01/24",
-    "art": "https://cdn.leonardo.ai/users/2b4dbbb3-c3f4-45a9-a675-33148ef5ed0f/generations/c64b5ea7-87c5-4b79-97d4-cb284e8b808f/variations/Default_anime_style_ultra_detailed_illustration_of_a_beautiful_3_c64b5ea7-87c5-4b79-97d4-cb284e8b808f_1.jpg",
-    "prompt": "anime style, ultra detailed illustration of a beautiful adult woman, wearing tribal celtic clothes, she's standing in a dungeon while summoning some magic with her hands, ((Mushoku Tensei:1.3)) ((Final fantasy:1.3)), magical glow, holographic glow, ultra detailed face, bold ink lines, cel shaded, art by MSchiffer, full color, contrasting colors",
-    "categories": ["Anime", "Personagem"]
+    "title": "Arcane Architect",
+    "artist": "FinGFin",
+    "date": "22/01/24",
+    "art": "https://i.imgur.com/z7JiC67.jpg",
+    "prompt": "Ultra realistic Arcane Architect of the Void Lean male figure, radiating an aura of controlled power. Hints of cybernetic enhancements peek from beneath flowing robes. Draped in flowing robes of deep blue, woven with shimmering threads that faintly trace constellations across the fabric. Glimmering runes inscribed on the sleeves and collar pulse with energy in time with their gestures. The scene is bathed in the ethereal glow of nebulae projected from floating crystalline orbs held in the mage's open palms. These orbs swirl with miniature galaxies, casting otherworldly light and shadow across the character. Pose: Standing with feet planted shoulder-width apart, arms outstretched slightly upwards. One hand gently cradles an orb while the other gestures with precise finger movements, manipulating the projected nebulae like cosmic clay. A swirling vortex of stardust and nebular hues forms the backdrop, suggesting the mage's connection to the fabric of space itself.",
+    "categories": ["Ficção Científica", "Personagem"]
   },
   {
     "id": "art-19",
     "title": "Steampunk Cat",
     "artist": "Satyamayi",
     "date": "14/01/24",
-    "art": "https://cdn.leonardo.ai/users/b82952af-3b11-4008-81ee-1bd01473a6b0/generations/d8077811-9bfa-49cd-a6be-480775ea14b6/Leonardo_Diffusion_XL_Steampunk_cat_walking_jauntily_through_1.jpg",
+    "art": "https://i.imgur.com/lCwlo26.jpg",
     "prompt": "Steampunk cat walking jauntily through a street with old leaning buildings.sky tinged gold",
     "categories": ["Animais", "Personagem"]
   },
   {
     "id": "art-20",
-    "title": "Cowboy Peace",
-    "artist": "CristianDaniel",
-    "date": "16/01/24",
-    "art": "https://cdn.leonardo.ai/users/b82952af-3b11-4008-81ee-1bd01473a6b0/generations/d8077811-9bfa-49cd-a6be-480775ea14b6/Leonardo_Diffusion_XL_Steampunk_cat_walking_jauntily_through_1.jpg",
-    "prompt": "Craft an image in a minimalist black ink style, suitable for a logo, that portrays a Wild West landscape at dusk. The scene should focus on a small, flickering campfire set against a backdrop of rolling hills and sparse vegetation. Include a hint of a cowboy silhouette sitting by the fire. The art should use clean lines and minimal details, emphasizing the stark beauty of the Wild West with a tranquil, almost Zen-like quality.",
-    "categories": ["Paisagem", "Personagem"]
+    "title": "Cyborg Ninja",
+    "artist": "FreePalestine",
+    "date": "24/01/24",
+    "art": "https://i.imgur.com/plFFD39.jpg",
+    "prompt": "anime style illustration of techwear, cyborg ninja, holding a sword, wearing a mask, striking pose, all limbs appear in frame, japanese vibe, detailed design for streetwear and urban style t-shirt design, solid color background, etc pro vector",
+    "categories": ["Personagem", "Ficção Científica"]
   }
 ]

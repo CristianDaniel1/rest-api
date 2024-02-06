@@ -3,7 +3,8 @@ import cors from 'cors';
 const ACCEPTED_ORIGINS = [
   'http://localhost:8080',
   'http://localhost:1234',
-  'http://arts.com',
+  'http://localhost:5173',
+  'https://iart-project.vercel.app',
 ];
 
 export const corsMiddleware = ({ acceptedOrigins = ACCEPTED_ORIGINS } = {}) =>

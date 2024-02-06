@@ -17,7 +17,7 @@ export class ArtModel {
   }
 
   static async getById({ id }) {
-    const art = arts.find((art = art.id === id));
+    const art = arts.find(art => art.id === id);
     return art;
   }
 

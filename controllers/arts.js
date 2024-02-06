@@ -15,7 +15,7 @@ export class ArtController {
 
     if (art) return res.json(art);
 
-    req.status(404).json({ message: 'Art not Found' });
+    res.status(404).json({ message: 'Art not Found' });
   }
 
   static async create(req, res) {
